@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Travel">
+        <menu>
+            <item
+                android:id="@+id/traininside"
+                android:icon="@drawable/info"
+                android:title="Train Inside" />
+            <item
+                android:id="@+id/trainoutside"
+                android:icon="@drawable/error"
+                android:title="Train Outside" />
+            <item
+                android:id="@+id/cab"
+                android:icon="@drawable/error"
+                android:title="Cabs and Rikshaw" />
+            <item
+                android:id="@+id/bus"
+                android:icon="@drawable/success"
+                android:title="Bus" />
+            <item
+                android:id="@+id/areasinbangalore"
+                android:icon="@drawable/info"
+                android:title="Areas in Bengaluru" />
+        </menu>
+    </item>
+    <item android:title="Food and Health">
+        <menu>
+            <item
+                android:id="@+id/healthyfoodlist"
+                android:icon="@drawable/success"
+                android:title="Healthy food list" />
+            <item
+                android:id="@+id/summerfoodlist"
+                android:icon="@drawable/success"
+                android:title="Summer food list" />
+            <item
+                android:id="@+id/exercise"
+                android:icon="@drawable/success"
+                android:title="Exercise" />
+            <item
+                android:id="@+id/yoga"
+                android:icon="@drawable/info"
+                android:title="Yoga" />
+            <item
+                android:id="@+id/meditation"
+                android:icon="@drawable/success"
+                android:title="Meditation" />
+            <item
+                android:id="@+id/books"
+                android:icon="@drawable/info"
+                android:title="Books" />
+        </menu>
+    </item>
+    <item android:title="Work">
+        <menu>
+            <item
+                android:id="@+id/interview"
+                android:icon="@drawable/success"
+                android:title="Interview" />
+            <item
+                android:id="@+id/gdandaptitude"
+                android:icon="@drawable/error"
+                android:title="GD and Aptitude" />
+            <item
+                android:id="@+id/javaandkotlin"
+                android:icon="@drawable/error"
+                android:title="Java and Kotlin" />
+            <item
+                android:id="@+id/interviewquestion"
+                android:icon="@drawable/error"
+                android:title="Interview Question" />
+            <item
+                android:id="@+id/commonandroidiq"
+                android:icon="@drawable/error"
+                android:title="Common Android IQ" />
+
+            <item
+                android:id="@+id/designpatterns"
+                android:icon="@drawable/success"
+                android:title="Design Patterns" />
+            <item
+                android:id="@+id/officepolitics"
+                android:icon="@drawable/success"
+                android:title="Office Politics" />
+            <item
+                android:id="@+id/gossipsandetiquests"
+                android:icon="@drawable/success"
+                android:title="Gossips and Etiquets" />
+            <item
+                android:id="@+id/english"
+                android:icon="@drawable/info"
+                android:title="English" />
+            <item
+                android:id="@+id/kannada"
+                android:icon="@drawable/info"
+                android:title="Kannada" />
+        </menu>
+    </item>
+    <item android:title="Living">
+        <menu>
+            <item
+                android:id="@+id/timetablebase"
+                android:icon="@drawable/info"
+                android:title="Timetable(for base)" />
+            <item
+                android:id="@+id/addressandcontactnumber"
+                android:icon="@drawable/success"
+                android:title="Address and Contact number" />
+            <item
+                android:id="@+id/notices"
+                android:icon="@drawable/error"
+                android:title="Notices" />
+            <item
+                android:id="@+id/extratimetosuffer"
+                android:icon="@drawable/error"
+                android:title="Extra time to suffer" />
+        </menu>
+    </item>
+
+</menu>

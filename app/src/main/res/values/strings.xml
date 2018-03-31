@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Banglore Help</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="about_sachin"> Myself sachin patel, graduated B.Tech from Gujarat Technological University(GTU) as an IT Engineer. I am blessed with very good imagination power and creativity. Me as a student, Completed many small tasks, joined Braintec labs pvt. ltd. as an Intern. After study, Joined Imagine Technology. I have 2 years experience of corporate world. Because of my interest and love for Android technology, I want to make my further career as an Android developer.</string>
+    <!--Sachin is a IT Engineer, He has served at Braintech labs,Ahmedabad. He likes to work on new projects take challenging work. It is brainchild of sachin only under whom this idea became a Reality-->
+
+</resources>
